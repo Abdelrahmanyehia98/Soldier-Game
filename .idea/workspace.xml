@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="acbccde0-a45b-4610-8d53-fd54fb74ebf9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib64.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/..png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/Back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/Digits.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/Health.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/HealthB.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/Man1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/Man2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/Man3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/Man4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/g.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/i.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/j.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/k.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/l.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/m.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/ninja star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/o.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/p.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/q.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/r.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/t.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/tile000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/tile001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/tile002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/tile003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/tile004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/tile005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/tile006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/tile007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/tile008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/tile009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/u.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/v.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/w.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/y.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Alphabet/z.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Man/..png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Man/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Man/18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Man/Back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Man/Health.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Man/HealthB.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Man/Man1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Man/Man2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Man/Man3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Man/Man4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Man/a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Man/b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Man/c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Man/d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Man/e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Man/f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Man/g.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Man/h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Man/i.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Man/j.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Man/k.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Man/l.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Man/m.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Man/n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Man/ninja star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Man/o.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Man/p.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Man/q.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Man/r.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Man/s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Man/t.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Man/tile000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Man/u.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Man/v.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Man/w.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Man/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Man/y.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Man/z.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/monsters/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/monsters/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/monsters/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/monsters/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/monsters/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/monsters/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/monsters/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/monsters/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/monsters/17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/monsters/18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/monsters/19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/monsters/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/monsters/20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/monsters/21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/monsters/22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/monsters/23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/monsters/24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/monsters/25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/monsters/26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/monsters/27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/monsters/28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/monsters/29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/monsters/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/monsters/30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/monsters/31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/monsters/32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/monsters/33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/monsters/34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/monsters/35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/monsters/36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/monsters/37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/monsters/38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/monsters/39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/monsters/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/monsters/40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/monsters/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/monsters/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/monsters/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/monsters/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/monsters/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Anim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnimGLEventListener4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnimListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BitmapLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ResourceRetriever.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TextureReader.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2oPDKH9DomSt1XKrxVSHzm2hbF7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Graphics/1SubwaySurfers1&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="acbccde0-a45b-4610-8d53-fd54fb74ebf9" name="Changes" comment="" />
+      <created>1730762253313</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730762253313</updated>
+    </task>
+    <servers />
+  </component>
+</project>
